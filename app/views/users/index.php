@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="pl">
 <head>
@@ -9,6 +10,7 @@
 </head>
 <body>
     <ul>
+        <li><a href="users/newUser">Add new user</a></li>
         <li><a href="home">Back</a></li>
     </ul>
     <table>
